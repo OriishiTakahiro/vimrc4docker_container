@@ -1,0 +1,1 @@
+# vimrc4docker_container
